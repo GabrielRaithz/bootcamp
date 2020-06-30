@@ -1,0 +1,4 @@
+#Thu Jun 18 19:41:32 BRT 2020
+base.0=/home/gabriel/Documents/gitMine/bootcamp/mobile/AwesomeProject/android/app/build/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
